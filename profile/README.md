@@ -47,11 +47,11 @@ capacitar a comunidade brasileira de MTA, oferecendo tutoriais, suporte mútuo,
 troca de código e orientação para todos que desejam aprender a programar e
 evoluir seus projetos.
 
-## Repositórios principais
+## Site oficial
 
-- [oly_core](https://github.com/OlyCore/oly_core) — núcleo compartilhado da base.
-- [oly_loading](https://github.com/OlyCore/oly_loading) — tela de carregamento.
-- [oly_inventory](https://github.com/OlyCore/oly_inventory) — inventário, lojas e armazenamentos.
+Um site oficial da base OlyCore está sendo preparado e será disponibilizado
+em breve. Ele reunirá a documentação, os tutoriais, os recursos e as novidades
+do projeto em um só lugar.
 
 ## [PT-BR] Sobre o Projeto OlyCore
 
