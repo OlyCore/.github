@@ -65,27 +65,13 @@ knowledge sharing among MTA:SA developers and enthusiasts in Brazil.
 
 Sua participação é o motor do projeto. Compartilhe sugestões, envie snippets,
 ajude quem tem dúvidas e participe ativamente da construção deste ecossistema.
-
-Your participation drives the project. Share suggestions, submit snippets,
-help other developers and take part in building this ecosystem.
-
 Antes de contribuir, leia as instruções do repositório correspondente e
 verifique se os arquivos enviados são próprios ou possuem licença compatível.
 
+Your participation drives the project. Share suggestions, submit snippets,
+help other developers and take part in building this ecosystem.
 Before contributing, read the instructions in the relevant repository and make
 sure submitted files are original or properly licensed.
-
-## Licença e conteúdo de terceiros | License and third-party content
-
-Cada repositório informa sua própria licença e suas dependências. Conteúdo
-pago, protegido ou de terceiros não faz parte da OlyCore e não deve ser
-redistribuído.
-
-Each repository defines its own license and dependencies. Paid, protected or
-third-party content is not part of OlyCore and must not be redistributed.
-
-Recursos identificados com `(Trust)` permanecem fora dos repositórios públicos.
-Resources identified with `(Trust)` remain outside the public repositories.
 
 Conecte-se, explore os repositórios e seja muito bem-vindo à nova era do
 MTA:SA. 🚀
