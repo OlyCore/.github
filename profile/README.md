@@ -2,6 +2,10 @@
   <img width="158" height="158" src="https://avatars.githubusercontent.com/u/329286151?v=4" alt="OlyCore">
 </p>
 
+<p align="center">
+  <a href="https://discord.gg/HeSjMFZTUx">Entre na comunidade OlyCore Brasil no Discord</a>
+</p>
+
 ## Bem-vindo à Comunidade OlyCore Brasil 🇧🇷
 
 A OlyCore é uma comunidade determinada a mudar o cenário de servidores
@@ -110,3 +114,7 @@ Resources identified with `(Trust)` remain outside the public repositories.
 
 Conecte-se, explore os repositórios e seja muito bem-vindo à nova era do
 MTA:SA. 🚀
+
+<p align="center">
+  <a href="https://discord.gg/HeSjMFZTUx">Discord oficial da comunidade OlyCore Brasil</a>
+</p>
