@@ -8,44 +8,21 @@
 
 ## Bem-vindo à Comunidade OlyCore Brasil 🇧🇷
 
-A OlyCore é uma comunidade determinada a mudar o cenário de servidores
-**MTA: San Andreas** no Brasil. Estamos cansados de ver servidores limitados
-por códigos arcaicos, bases poluídas, cheias de gambiarras e recursos
-comercializados a preços abusivos que prometem muito, mas entregam travamentos
-e desorganização.
+A OlyCore é uma comunidade brasileira que busca modernizar o desenvolvimento
+de servidores **MTA: San Andreas** por meio de um framework aberto, modular,
+gratuito e de alta performance.
 
-Aqui, você encontrará uma alternativa aberta e moderna. Na OlyCore, estamos
-comprometidos em desenvolver um framework modular, de alta performance e
-gratuito, sem travas de IP, sem autenticações obscuras e sem scripts
-compilados. Acreditamos na transparência e no código limpo: cada módulo
-construído é aberto e acessível para a comunidade.
+O projeto combate códigos antigos, bases desorganizadas, scripts bloqueados e
+recursos abusivamente caros, oferecendo uma solução transparente, segura e
+acessível para a comunidade.
 
-Sabemos o quanto a comunidade sofre com servidores pesados, vazamentos de
-memória e desorganização técnica. É exatamente para virar essa página que a
-OlyCore foi criada.
+Inspirada nos padrões modernos de frameworks como QBCore e Qbox, a OlyCore
+utiliza uma arquitetura procedural, modular e reativa, com ciclo de vida claro,
+bancos relacionais isolados e comunicação eficiente por exports nativos.
 
-Nossa missão é trazer uma arquitetura procedural, modular e reativa,
-inspirada nos padrões modernos de frameworks como QBCore e Qbox, diretamente
-para as necessidades e possibilidades do Multi Theft Auto.
-
-Tudo começou com uma pergunta simples: por que o cenário de MTA:SA no Brasil
-ainda está preso a scripts antigos, mal documentados e cheios de travas
-pagas? Essa indignação nos motivou a agir. Decidimos construir uma solução
-moderna, leve, desacoplada e acessível para quem realmente ama desenvolver no
-MTA.
-
-Nasceu assim a OlyCore Brasil, uma iniciativa dedicada a formar uma verdadeira
-**comunidade de desenvolvedores e entusiastas**, oferecendo uma base
-transparente, modular e adaptada às necessidades do público brasileiro.
-
-Investimos tempo e dedicação para estruturar um ecossistema com ciclo de vida
-claro, bancos relacionais isolados e comunicação eficiente por meio de
-exports nativos, eliminando scripts bloqueados e soluções obsoletas.
-
-Nossa missão vai muito além de disponibilizar arquivos para download. Queremos
-capacitar a comunidade brasileira de MTA, oferecendo tutoriais, suporte mútuo,
-troca de código e orientação para todos que desejam aprender a programar e
-evoluir seus projetos.
+Além de disponibilizar recursos, a OlyCore incentiva o aprendizado, a
+colaboração e a troca de conhecimento entre desenvolvedores e entusiastas de
+MTA:SA no Brasil.
 
 ## Site oficial
 
@@ -69,22 +46,20 @@ profissional, padronizado e descomplicado para o MTA:SA no Brasil.
 
 ## [EN] OlyCore Project
 
-OlyCore is a community-driven initiative focused on changing the MTA: San
-Andreas server landscape in Brazil. We are building a modern, modular and
-high-performance open-source foundation for developers and server owners.
+OlyCore is a Brazilian community working to modernize **MTA: San Andreas**
+server development through an open, modular, free and high-performance
+framework.
 
-Our goal is to move away from outdated code, messy bases, hidden
-authentication, IP locks and compiled scripts. We believe in transparency,
-clean code and resources that are accessible to the community.
+The project moves away from outdated code, disorganized bases, locked scripts
+and overpriced resources by offering a transparent, secure and accessible
+alternative for the community.
 
-The project is inspired by modern framework patterns such as QBCore and Qbox,
-adapted to the possibilities and requirements of Multi Theft Auto. We focus on
-clear lifecycles, isolated relational databases and efficient communication
-through native exports.
+Inspired by modern frameworks such as QBCore and Qbox, OlyCore uses a
+procedural, modular and reactive architecture with clear lifecycles, isolated
+relational databases and efficient communication through native exports.
 
-OlyCore is more than a collection of downloadable resources. We want to
-empower MTA developers with tutorials, mutual support, code sharing and
-guidance for everyone who wants to learn Lua and improve their projects.
+Beyond releasing resources, OlyCore promotes learning, collaboration and
+knowledge sharing among MTA:SA developers and enthusiasts in Brazil.
 
 ## Contribuição | Contributing
 
