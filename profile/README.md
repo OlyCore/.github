@@ -1,66 +1,100 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/329286151?v=4" width="150" alt="OlyCore">
-  <h1>OlyCore</h1>
-  <p><strong>Recursos e base open source para servidores MTA: San Andreas.</strong></p>
-</div>
-
 <p align="center">
-  <a href="https://github.com/OlyCore/oly_core">Core</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/OlyCore/oly_loading">Loading</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/OlyCore/oly_inventory">Inventory</a>
+  <img width="158" height="158" src="https://avatars.githubusercontent.com/u/329286151?v=4" alt="OlyCore">
 </p>
 
-## 🇧🇷 Sobre a OlyCore
+## Bem-vindo à Comunidade OlyCore Brasil 🇧🇷
 
-A OlyCore é uma organização focada no desenvolvimento de recursos para
-**MTA: San Andreas**. Nosso objetivo é criar uma base organizada, reutilizável
-e acessível para servidores e desenvolvedores da comunidade.
+A OlyCore é uma comunidade determinada a mudar o cenário de servidores
+**MTA: San Andreas** no Brasil. Estamos cansados de ver servidores limitados
+por códigos arcaicos, bases poluídas, cheias de gambiarras e recursos
+comercializados a preços abusivos que prometem muito, mas entregam travamentos
+e desorganização.
 
-Trabalhamos com recursos independentes, documentação clara e uma estrutura que
-facilita a instalação, manutenção e contribuição.
+Aqui, você encontrará uma alternativa aberta e moderna. Na OlyCore, estamos
+comprometidos em desenvolver um framework modular, de alta performance e
+gratuito, sem travas de IP, sem autenticações obscuras e sem scripts
+compilados. Acreditamos na transparência e no código limpo: cada módulo
+construído é aberto e acessível para a comunidade.
 
-### Repositórios principais
+Sabemos o quanto a comunidade sofre com servidores pesados, vazamentos de
+memória e desorganização técnica. É exatamente para virar essa página que a
+OlyCore foi criada.
+
+Nossa missão é trazer uma arquitetura procedural, modular e reativa,
+inspirada nos padrões modernos de frameworks como QBCore e Qbox, diretamente
+para as necessidades e possibilidades do Multi Theft Auto.
+
+Tudo começou com uma pergunta simples: por que o cenário de MTA:SA no Brasil
+ainda está preso a scripts antigos, mal documentados e cheios de travas
+pagas? Essa indignação nos motivou a agir. Decidimos construir uma solução
+moderna, leve, desacoplada e acessível para quem realmente ama desenvolver no
+MTA.
+
+Nasceu assim a OlyCore Brasil, uma iniciativa dedicada a formar uma verdadeira
+**comunidade de desenvolvedores e entusiastas**, oferecendo uma base
+transparente, modular e adaptada às necessidades do público brasileiro.
+
+Investimos tempo e dedicação para estruturar um ecossistema com ciclo de vida
+claro, bancos relacionais isolados e comunicação eficiente por meio de
+exports nativos, eliminando scripts bloqueados e soluções obsoletas.
+
+Nossa missão vai muito além de disponibilizar arquivos para download. Queremos
+capacitar a comunidade brasileira de MTA, oferecendo tutoriais, suporte mútuo,
+troca de código e orientação para todos que desejam aprender a programar e
+evoluir seus projetos.
+
+## Repositórios principais
 
 - [oly_core](https://github.com/OlyCore/oly_core) — núcleo compartilhado da base.
 - [oly_loading](https://github.com/OlyCore/oly_loading) — tela de carregamento.
 - [oly_inventory](https://github.com/OlyCore/oly_inventory) — inventário, lojas e armazenamentos.
 
-### Começando
+## [PT-BR] Sobre o Projeto OlyCore
 
-1. Baixe os repositórios necessários.
-2. Coloque cada recurso na pasta `resources` do seu servidor.
-3. Leia o `README.md` do recurso escolhido.
-4. Configure os arquivos locais conforme as instruções.
-5. Inicie o `oly_core` antes dos recursos dependentes.
+A OlyCore fornece uma fundação robusta para servidores MTA:SA, com
+gerenciamento seguro de sessões, persistência organizada, sistema de inventário
+desacoplado por slots e metadados, veículos otimizados e um ciclo de vida
+reativo pronto para receber módulos próprios de gameplay.
 
-## 🇺🇸 About OlyCore
+Não importa se você está começando sua jornada como scripter em Lua. Nossa
+comunidade está pronta para somar, compartilhar conhecimento e ajudar nas suas
+dúvidas.
 
-OlyCore is an organization focused on developing resources for
-**MTA: San Andreas** servers. Our goal is to provide an organized, reusable
-and accessible foundation for servers and developers in the community.
+Ao utilizar a OlyCore, você participa da construção de um ecossistema aberto,
+profissional, padronizado e descomplicado para o MTA:SA no Brasil.
 
-We maintain independent resources, clear documentation and a structure that
-makes installation, maintenance and contribution easier.
+## [EN] OlyCore Project
 
-### Getting started
+OlyCore is a community-driven initiative focused on changing the MTA: San
+Andreas server landscape in Brazil. We are building a modern, modular and
+high-performance open-source foundation for developers and server owners.
 
-1. Download the required repositories.
-2. Place each resource inside your server's `resources` folder.
-3. Read the `README.md` for the selected resource.
-4. Configure the local files according to the instructions.
-5. Start `oly_core` before any dependent resource.
+Our goal is to move away from outdated code, messy bases, hidden
+authentication, IP locks and compiled scripts. We believe in transparency,
+clean code and resources that are accessible to the community.
+
+The project is inspired by modern framework patterns such as QBCore and Qbox,
+adapted to the possibilities and requirements of Multi Theft Auto. We focus on
+clear lifecycles, isolated relational databases and efficient communication
+through native exports.
+
+OlyCore is more than a collection of downloadable resources. We want to
+empower MTA developers with tutorials, mutual support, code sharing and
+guidance for everyone who wants to learn Lua and improve their projects.
 
 ## Contribuição | Contributing
 
-Sugestões, correções e melhorias são bem-vindas. Antes de contribuir, leia as
-instruções do repositório correspondente e verifique se os arquivos enviados
-são próprios ou possuem licença compatível.
+Sua participação é o motor do projeto. Compartilhe sugestões, envie snippets,
+ajude quem tem dúvidas e participe ativamente da construção deste ecossistema.
 
-Suggestions, fixes and improvements are welcome. Before contributing, read the
-instructions in the relevant repository and make sure submitted files are
-original or properly licensed.
+Your participation drives the project. Share suggestions, submit snippets,
+help other developers and take part in building this ecosystem.
+
+Antes de contribuir, leia as instruções do repositório correspondente e
+verifique se os arquivos enviados são próprios ou possuem licença compatível.
+
+Before contributing, read the instructions in the relevant repository and make
+sure submitted files are original or properly licensed.
 
 ## Licença e conteúdo de terceiros | License and third-party content
 
@@ -73,3 +107,6 @@ third-party content is not part of OlyCore and must not be redistributed.
 
 Recursos identificados com `(Trust)` permanecem fora dos repositórios públicos.
 Resources identified with `(Trust)` remain outside the public repositories.
+
+Conecte-se, explore os repositórios e seja muito bem-vindo à nova era do
+MTA:SA. 🚀
